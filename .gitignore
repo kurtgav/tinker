@@ -1,0 +1,21 @@
+
+# Valid Python ignore
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv/
+venv/
+ENV/
+.DS_Store
+
+# NodeJS
+node_modules/
+npm-debug.log
+
+# Tinker Artifacts
+screenshot.png
+response.txt
+*.sqlite
+*.db
+

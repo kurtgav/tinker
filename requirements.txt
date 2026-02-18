@@ -1,0 +1,8 @@
+discord.py
+python-dotenv
+groq
+playwright
+fastmcp
+duckduckgo-search
+playwright
+pytest-playwright
